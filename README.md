@@ -4,21 +4,14 @@ Informaiton and notes from other READMEs to find ways of writing down instructio
 
 # README.md chapters
 
-## title
-
-## Overview/Discription of the project
-
-## Key topics or Table of Content
-
-## Isntalling & Running project
-
-## Interacting with Project
-
-## References & Notes
-
-## License
-
-## Contributing to the project
+title
+Overview/Discription of the project
+Key topics or Table of Content
+Isntalling & Running project
+Interacting with Project
+References & Notes
+License
+Contributing to the project
 
 # Observation on Level of Confidence's README.md
 
