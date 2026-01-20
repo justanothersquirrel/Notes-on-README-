@@ -16,11 +16,13 @@ Informaiton and notes from other READMEs to find ways of writing down instructio
 # Observation on Level of Confidence's README.md
 
 **Introduciton:**
+
     about the project.
     concept meaning
     technical meaning
 
 **Elements needed to supply the project:**
+
     1.Dispaly
     what does the project need in order to have it on display
     Projector - Monitor - TV - Laptop
@@ -29,16 +31,20 @@ Informaiton and notes from other READMEs to find ways of writing down instructio
     4.Light
 
 **Installation:**
+
     what needs to be downlaoded
     step by step on where to put folders and files (Assets perhaps)
 
 **Calibration:**
+
     adjesting the camera and tools used for the project.
 
 **Text:**
+
     what blurb needs to be added physicaly next to the work.
 
 **Informaiton:**
+
     For more information on this project, videos, photos and press, please visit:
     http://www.lozano-hemmer.com/level_of_confidence.php
 
@@ -46,5 +52,6 @@ Informaiton and notes from other READMEs to find ways of writing down instructio
     https://github.com/antimodular/Level-of-Confidence
 
 **Images:**
+
     Images of the work
     3D Render of the setup
